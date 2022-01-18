@@ -1,0 +1,27 @@
+.product-list-view img {
+    width: 200px;
+}
+
+.product-list-view td {
+    vertical-align: middle;
+}
+
+.product-list-view td:first-child {
+    width: 220px;
+}
+
+.price {
+    color: red !important;
+}
+
+.switcher {
+    float: right;
+}
+
+.store {
+    padding: 50px;
+}
+
+.store .card {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
